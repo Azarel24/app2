@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles,cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/bootstrap/</ImageTemplate>
+            <ImageTemplateName>Bootstrap</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Helvetica Neue</TemplateFont>
+            <TemplateName>bootstrap</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/git/app2-git/imagenes/altasustitucion.png</url>
+                <title>altasustitucion</title>
+                <filesize>47713</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/atyt.png</url>
+                <title>atyt</title>
+                <filesize>101996</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/bajasustituto.jpg</url>
+                <title>bajasustituto</title>
+                <filesize>16910</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/creadorcelular.jpg</url>
+                <title>creadorcelular</title>
+                <filesize>20507</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/defiejem1.jpg</url>
+                <title>defiejem1</title>
+                <filesize>86414</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/defiejem2.jpg</url>
+                <title>defiejem2</title>
+                <filesize>25641</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/foto de perfil.jpg</url>
+                <title>foto de perfil</title>
+                <filesize>43531</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/futurista1.png</url>
+                <title>futurista1</title>
+                <filesize>275478</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/gamabaja.jpg</url>
+                <title>gamabaja</title>
+                <filesize>122901</filesize>
+            </Image>
+            <Image>
+                <url>J:/git/app2-git/imagenes/gamalta.jpg</url>
+                <title>gamalta</title>
+                <filesize>39737</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
